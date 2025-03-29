@@ -1,1 +1,1 @@
-# RushStoreShipping
+# RushStore
